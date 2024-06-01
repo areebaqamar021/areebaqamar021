@@ -14,7 +14,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything**
 
-⚡ Fun fact **Enjoy to do programming and sharing knowledge**
+⚡ Fun fact:  **Enjoy to do programming and sharing knowledge**
 
  </div>
  
