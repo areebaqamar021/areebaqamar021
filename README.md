@@ -28,9 +28,6 @@
   <a href="portfolio-static-react.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://x.com/AreebaQamar5" target="_blank">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
 </div>
 
  <hr/>
