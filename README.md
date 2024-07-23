@@ -1,30 +1,24 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=areebaqamar021.areebaqamar021" />
+<h1 align="center">Hi 👋, I'm Areeba Qamar</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Areeba+Qamar!;" />
-</h1>
+<p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and other UI frameworks on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
-<h3 align="center">A passionate MERN Stack developer</h3>
+- 🌱 I’m currently learning **Data Science AI & ML**
 
-<div align="center">
- 
- 🔭 I’m currently working on **React JS**
- 
- 🌱 I’m currently learning **Next JS, Flutter, Python**
+- 👨‍💻 All of my projects are available at [https://areebaqamar021.github.com/tab=repositories](https://github.com/areebaqamar021?tab=repositories)
 
-💬 Ask me about **Node.js, React, Firebase... or anything**
+- 💬 Ask me about **React.js Node.js & NextJS**
 
-⚡ Fun fact:  **Enjoy to do programming and sharing knowledge**
+- 📫 How to reach me **areebaqamar021@gmail.com**
 
- </div>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>
  
 <div align="center"> 
- <a href="mailto: areebaqamar021@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
   <a href="https://www.linkedin.com/in/areeba-qamar-7a40471a4/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a> 
+    <a href="https://x.com/AreebaQamar5" target="_blank">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+ </a>
   <a href="portfolio-static-react.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
