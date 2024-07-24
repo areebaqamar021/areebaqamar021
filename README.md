@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeba Qamar</h1>
 
-<h5 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and other UI frameworks on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h5>
+<h4 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and other UI frameworks on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h4>
 
 - 🌱 I’m currently learning **Data Science, AI, & ML**
 
