@@ -13,8 +13,8 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=areebaqamar021&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/areeba.qamar.988)
 ![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?style=for-the-badge&logo=Leetcode&logoColor=white)
