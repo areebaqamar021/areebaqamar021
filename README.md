@@ -17,7 +17,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=areebaqamar021&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/areeba.qamar.988)
-![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?style=for-the-badge&logo=Leetcode&logoColor=white)
+![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
  <hr/>
  
