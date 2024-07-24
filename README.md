@@ -2,27 +2,22 @@
 
 <p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and other UI frameworks on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
-- 🌱 I’m currently learning **Data Science AI & ML**
+- 🌱 I’m currently learning **Data Science, AI, & ML**
 
 - 👨‍💻 All of my projects are available at [https://areebaqamar021.github.com/tab=repositories](https://github.com/areebaqamar021?tab=repositories)
 
-- 💬 Ask me about **React.js Node.js & NextJS**
+- 💬 Ask me about **React.js, Node.js, & NextJS**
 
 - 📫 How to reach me **areebaqamar021@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/areeba-qamar-7a40471a4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a> 
-    <a href="https://x.com/AreebaQamar5" target="_blank">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
- </a>
-  <a href="portfolio-static-react.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
+![](https://komarev.com/ghpvc/?username=areebaqamar021&color=brightgreen&style=for-the-badge)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/areeba.qamar.988)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
  <hr/>
  
