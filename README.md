@@ -8,11 +8,11 @@
 
 - 💬 Ask me about **React.js, Node.js, & NextJS**
 
-- ⚡ Fun fact: **Code that works on Friday may not work on Monday**
-
 - 👨‍💻 All of my projects are available at [https://areebaqamar021.github.com/tab=repositories](https://github.com/areebaqamar021?tab=repositories)
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>
+
+- ⚡ Fun fact: **Code that works on Friday may not work on Monday**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
