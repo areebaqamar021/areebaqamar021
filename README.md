@@ -6,9 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://areebaqamar021.github.com/tab=repositories](https://github.com/areebaqamar021?tab=repositories)
 
+- 👯 I’m looking to collaborate on **Anyone's Open Source Project**
+
 - 💬 Ask me about **React.js, Node.js, & NextJS**
 
-- 📫 How to reach me **areebaqamar021@gmail.com**
+- ⚡ Fun fact: **Code that works on Friday may not work on Monday**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>
 
