@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeba Qamar</h1>
 
-<h4 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and other UI frameworks on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h4>
+<h4 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Can write production-ready code using React, Redux, and other UI frameworks on the front end, Node.js, and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h4>
 
 - 🌱 I’m currently learning **Data Science, AI, & ML**
 
@@ -16,10 +16,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
-![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)
+![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AreebaQamar5)
 ![](https://komarev.com/ghpvc/?username=areebaqamar021&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/areeba.qamar.988)
-![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/areebaqamar021/)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
  <hr/>
  
