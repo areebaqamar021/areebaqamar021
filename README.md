@@ -12,19 +12,16 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=areebaqamar021&color=red)&nbsp;
 [![GitHub areebaqamar021](https://img.shields.io/github/followers/areebaqamar021?label=follow&style=social)](https://github.com/areebaqamar021)&nbsp;
+
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning **Data Science, AI, & ML**
+💡 &nbsp; Hello everyone! I’m diving deep into Data Science, AI, and ML, and I enjoy collaborating with others on projects of similar interest. I’m proficient in React.js, Node.js, and Next.js, and I’m always eager to contribute to open-source projects. Let’s connect and create something amazing together!
 
-- 👯 I’m looking to collaborate on **Anyone's Open Source Project**
-
-- 💬 Ask me about **React.js, Node.js, & NextJS**
-
-- 👨‍💻 All of my projects are available at [https://areebaqamar021.github.com/tab=repositories](https://github.com/areebaqamar021?tab=repositories)
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>
-
-- ⚡ Fun fact: **Code that works on Friday may not work on Monday**
+🌱 &nbsp; I’m currently diving deep into Data Science, AI, & ML, exploring new techniques and methodologies.\
+👯 &nbsp; I’m eager to collaborate on Anyone's Open Source Project, bringing in my skills and learning from the community.\
+💬 &nbsp; Feel free to ask me about React.js, Node.js, & NextJS, as I enjoy discussing and solving challenges in these frameworks.\
+📄 &nbsp; To learn more about my experiences, check out my<a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>, which highlights my journey and expertise.\
+⚡ &nbsp; Fun fact: **Code that works on Friday may not work on Monday**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
