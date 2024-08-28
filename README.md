@@ -20,8 +20,13 @@
 🌱 &nbsp; I’m currently diving deep into Data Science, AI, & ML, exploring new techniques and methodologies.\
 👯 &nbsp; I’m eager to collaborate on Anyone's Open Source Project, bringing in my skills and learning from the community.\
 💬 &nbsp; Feel free to ask me about React.js, Node.js, & NextJS, as I enjoy discussing and solving challenges in these frameworks.\
-📄 &nbsp; To learn more about my experiences, check out my<a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>, which highlights my journey and expertise.\
+📄 &nbsp; To learn more about my experiences, check out my <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>, which highlights my journey and expertise.\
 ⚡ &nbsp; Fun fact: **Code that works on Friday may not work on Monday**
+
+### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+
+-----
+### 📫 &nbsp; How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
