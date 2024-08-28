@@ -1,4 +1,4 @@
-### Hello world, I'm Avinash  👋 
+### Hello world, I'm Areeba 👋 
 
 -----
 
@@ -10,8 +10,8 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=areebaqamar021&color=red)&nbsp;
+[![GitHub areebaqamar021](https://img.shields.io/github/followers/areebaqamar021?label=follow&style=social)](https://github.com/areebaqamar021)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🌱 I’m currently learning **Data Science, AI, & ML**
