@@ -29,17 +29,16 @@
 ### 📫 &nbsp; How to reach me:
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-qamar-7a40471a4/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:areebaqamar021@gmail.com)
-![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)
-![](https://komarev.com/ghpvc/?username=areebaqamar021&color=brightgreen&style=for-the-badge)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/areeba.qamar.988)
-![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  <a href="https://www.linkedin.com/in/areeba-qamar-7a40471a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="profile of LinkedIn with username Areeba-Qamar" /></a>
+  <a href="mailto:areebaqamar021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email of Areeba i.e.   areebaqamar021@gmail.com" /></a>
+  <a href="https://discordapp.com/areebaqamar"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="profile of Discord with username areeba_qamar(areebaqamar#0943)" /></a>
+  <a href="https://x.com/AreebaQamar5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="profile of Twitter with username Areeba_Qamar" /></a>
+  <a href="https://facebook.com/areeba.qamar.988"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="profile of Facebook" /></a>
+  <a href="https://leetcode.com/u/areebaqamar021/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="profile of LeetCode" /></a>
 </div>
 
 -----
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,redux" />
