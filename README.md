@@ -1,6 +1,18 @@
-<h1 align="center">Hi 👋, I'm Areeba Qamar</h1>
+### Hello world, I'm Avinash  👋 
 
-<h4 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Can write production-ready code using React, Redux, and other UI frameworks on the front end, Node.js, and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h4>
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🌱 I’m currently learning **Data Science, AI, & ML**
 
