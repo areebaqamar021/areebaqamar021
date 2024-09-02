@@ -23,8 +23,6 @@
 📄 &nbsp; To learn more about my experiences, check out my <a href="https://drive.google.com/file/d/1-L7DNQDR1zeXZ_2tOTfqZ2k_pCeBjJ7P/view?usp=sharing">Resume</a>, which highlights my journey and expertise.\
 ⚡ &nbsp; Fun fact: **Code that works on Friday may not work on Monday**
 
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
-
 -----
 ### 📫 &nbsp; How to reach me:
 
