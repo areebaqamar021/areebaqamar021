@@ -1,9 +1,10 @@
 ### Hello, I'm Areeba 👋  
 
-💡 &nbsp; Passionate about Data Science, AI, and ML, and always eager to collaborate on open-source projects.  
-🌱 &nbsp; Currently exploring advanced AI/ML techniques and working on exciting projects.  
-👯 &nbsp; Open to collaborations in React.js, Node.js, Next.js, and data science.  
-💬 &nbsp; Ask me about React.js, Node.js, and Next.js—I love solving challenges in these frameworks.  
+💡 &nbsp; Passionate about **Data Analysis** and **Data Science**, always eager to uncover insights from data.  
+🌱 &nbsp; Currently exploring advanced analytics, visualization, and machine learning techniques.  
+👯 &nbsp; Open to collaborations in **data-driven projects**, research, and open-source contributions.  
+📈 &nbsp; Interested in **project management** and leveraging data for smarter decision-making.  
+💬 &nbsp; Ask me about **data cleaning, analysis, visualization**, or building end-to-end data solutions.    
 ⚡ &nbsp; Fun fact: **Code that works on Friday may not work on Monday.**  
 
 ### 📫 &nbsp; Connect with me:  
