@@ -5,7 +5,7 @@
 👯 &nbsp; Open to collaborations in **data-driven projects**, research, and open-source contributions.  
 📈 &nbsp; Interested in **project management** and leveraging data for smarter decision-making.  
 💬 &nbsp; Ask me about **data cleaning, analysis, visualization**, or building end-to-end data solutions.    
-⚡ &nbsp; Fun fact: **Code that works on Friday may not work on Monday.**  
+<h2 align="center">⚡ <i><b>Fun fact:</b> Code that works on Friday may not work on Monday.</i> ⚡</h2>
 
 ### 📫 &nbsp; Connect with me:  
 
