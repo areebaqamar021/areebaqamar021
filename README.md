@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a CS graduate who enjoys building full-stack web and mobile applications and working with data — from cleaning and analysis to visualization. Always learning, always building.
+I'm a CS graduate who enjoys building full-stack web and mobile applications and working with data — from cleaning and analysis to visualization.
 
 ---
 
