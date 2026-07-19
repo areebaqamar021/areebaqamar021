@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Areeba 👋</h1>
-<p align="center"><i>CS grad building across full-stack development, data, and cloud — with a growing interest in IP & compliance tech</i></p>
+<p align="center"><i>CS grad building full-stack applications and working with data</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/areeba-qamar-7a40471a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:areebaqamar021@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/AreebaQamar5">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://badgen.net/badge/X%20(Twitter)/Follow/black" alt="X"/>
   </a>
 </p>
 
@@ -17,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a CS graduate who enjoys building full-stack applications and working with data. Alongside that, I'm exploring how **technology, security, and compliance** intersect — currently learning about IP protection, fashion law, and cloud/digital security fundamentals.
+I'm a CS graduate who enjoys building full-stack web and mobile applications and working with data — from cleaning and analysis to visualization. Always learning, always building.
 
 ---
 
@@ -26,16 +23,7 @@ I'm a CS graduate who enjoys building full-stack applications and working with d
 **Frontend:** React · React Native · JavaScript · HTML/CSS  
 **Backend:** Node.js · Express  
 **Languages & Tools:** Python · SQL · Git/GitHub  
-**Data:** Python for Data Analysis · Pandas · Data Cleaning · Data Visualization · Analysis  
-**Foundations:** Linux Basics · Networking Basics  
-
----
-
-### 📘 Currently Exploring
-
-- Fashion Law & IP Fundamentals  
-- AWS & Cloud Security  
-- Digital Product Passports & Legal Compliance  
+**Data:** Pandas · Data Cleaning · Data Visualization · Data Analysis  
 
 ---
 
